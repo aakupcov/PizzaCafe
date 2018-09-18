@@ -1,0 +1,4 @@
+small 5.0
+mini 6.0
+large 7.0
+extraLarge 8.0 

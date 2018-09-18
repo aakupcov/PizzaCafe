@@ -1,0 +1,4 @@
+small 5.5
+mini 6.6
+large 7.7
+extraLarge 8.8
